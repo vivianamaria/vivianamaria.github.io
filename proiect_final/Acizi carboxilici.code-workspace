@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "Acizi carboxilici",
+			"path": "."
+		},
+		{
+			"name": "Cholesteric",
+			"path": "../Cholesteric"
+		},
+		{
+			"name": "index",
+			"path": "../index"
+		},
+		{
+			"name": "Schiff bases",
+			"path": "../Schiff bases"
+		},
+		{
+			"name": "images",
+			"path": "../images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Acizi carboxilici",
+		"liveServer.settings.port": 5501
+	}
+}
